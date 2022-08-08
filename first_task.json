@@ -1,0 +1,13 @@
+{
+    "name": "Жанболот",
+    "surname":"Абдрасилов",
+    "age": 24,
+    "city":"Bishkek",
+    "programming_language":"Python",
+    "football_team":"Real Madrid",
+    "mother": {
+      "name": "Бурул",
+      "age": 64
+    },
+    "married": false
+  }
